@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Logo LogTiger.jpg" alt="Texto alternativo" width="300"/>
+<img src="" alt="Texto alternativo" width="300"/>
  </div>
 
 # Proposta
