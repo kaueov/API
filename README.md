@@ -23,5 +23,37 @@
 
  ### Sublime Text
   As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho
+
+
+
+
+
+<table>
+<tr>
+<td>Kaue</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+<td>Pedro</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+<td>Bruno</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+<td>Paulo</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+<td>Daniel</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+<td>Andreza</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+</table>
+
  
   
