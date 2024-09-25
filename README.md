@@ -31,7 +31,7 @@
 <table>
 <tr>
 <td>Kaue</td>
-<td>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c137santos/)</td> 
+<td><a href="www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
 <td>Pedro</td>
