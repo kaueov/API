@@ -16,7 +16,7 @@
  # Aplicabilidade das Ferramentas
  ## O projeto focou nos municípios do Vale do Paraíba e Litoral Norte, utilizando planilhas extensas e códigos numéricos para representar os municípios. Para facilitar o tratamento dos dados, foi feita a filtragem e posterior substituição dos códigos dos municípios por seus respectivos nomes com o objetivo de organizar e analisar os dados comerciais dessas regiões, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Banner.png" alt="Texto alternativo" width="1000"/>
+<img src="Ferramentas.png" alt="Texto alternativo" width="1000"/>
  </div>
 
  ### Jira Software
