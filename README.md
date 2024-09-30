@@ -18,25 +18,29 @@
 <div align="center">
 <img src="Banner.png" alt="Texto alternativo" width="1000"/>
  </div>
+
  ### Jira Software
   Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, organiando em anexos os outros aplicativos utilizados
 
  ### Sublime Text
   As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
  ### Excel
+  Com as informações filtradas, obtivemos planilhas organizadas com apenas o necessário. O que futuramente será usado para a apresensação de dashboards no Power Bi.
+
+  
+  
   
 
 
 
-
-
+# Equipe
 <table>
 <tr>
-<td>Kaue</td>
+<td>Kaue Venâncio</td>
 <td><a href="https://www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Pedro</td>
+<td>Pedro Hernandes</td>
 <td><a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
@@ -44,15 +48,15 @@
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Paulo</td>
+<td>Paulo Henrique</td>
 <td><a href="https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Daniel</td>
+<td>Daniel Pacífico</td>
 <td><a href="https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Andreza</td>
+<td>Andreza Maria</td>
 <td><a href="https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
 </table>
