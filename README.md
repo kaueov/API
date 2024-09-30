@@ -22,7 +22,9 @@
   Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, organiando em anexos os outros aplicativos utilizados
 
  ### Sublime Text
-  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho
+  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
+ ### Excel
+  
 
 
 
