@@ -29,7 +29,23 @@
 
   
   
-  
+ # Backlog do Produto
+
+ 1º Sprint
+Entrega de backlog
+Entendimento do problema e proposta de solução 
+Entrega do git
+
+2º Sprint
+Entregar planilha com busca intuitiva e com dados separados e filtrados 
+
+
+3º Sprint
+Power BI com dados da
+ planilha que mostre de forma clara para cliente dados e buscas de gráficos 
+
+4°sprint
+Entregar produto final totalmente refinado
 
 
 
