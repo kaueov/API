@@ -41,11 +41,10 @@ Entregar planilha com busca intuitiva e com dados separados e filtrados
 
 
 3º Sprint
-Power BI com dados da
- planilha que mostre de forma clara para cliente dados e buscas de gráficos 
+Dashobard indicando produtos de alto valor agregado importados e exportados no Vale do Paraíba 
 
 4°sprint
-Entregar produto final totalmente refinado
+Dashboard indicando quais produtos de alto valor agragado poderiam passar a serem transportados pelo modal aéreo a fim de aumentar a eficiencia do transporte
 
 
 
